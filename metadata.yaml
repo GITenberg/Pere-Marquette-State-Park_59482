@@ -1,0 +1,26 @@
+_repo: Pere-Marquette-State-Park_59482
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Illinois. Department of Conservation
+    aliases:
+    - Illinois. Department of Conservation, Parks, and Memorials
+    - Illinois. Dept. of Conservation
+    - Conservation, Illinois Department of
+    gutenberg_agent_id: '50809'
+    url: http://www.gutenberg.org/2009/agents/50809
+description: ''
+gutenberg_issued: '2019-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pere Marquette State Park (Ill.) -- Guidebooks'
+- !lcc 'F516'
+- GITenberg
+title: Pere Marquette State Park
+url: http://www.gutenberg.org/ebooks/59482
